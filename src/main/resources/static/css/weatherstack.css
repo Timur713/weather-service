@@ -1,0 +1,22 @@
+#weather_header {
+    text-align: center;
+    color: #0b1944
+}
+
+#weather_form {
+    background-color: #e7ffee;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#weather_form_components {
+    padding: 25px;
+
+}
+
+#weather_response_content {
+    background-color: #d6eeff;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 20px;
+}
